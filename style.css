@@ -14,7 +14,7 @@ html {
 }
 
 body {
- font-family: Helvetica, Arial, sans-serif;
+ font-family: helvetica, Arial, sans-serif;
     font-weight: 400;
   background: #ffffff;
   color: #0a0a0a;
@@ -41,7 +41,7 @@ backdrop-filter: blur(12px);
   color: #2a2a2a;
   text-decoration: none;
   font-size: 14px;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: helvetica, Arial, sans-serif;
       position: relative;
 }
 
@@ -108,8 +108,8 @@ backdrop-filter: blur(12px);
 }
 
 @font-face {
-  font-family: Helvetica;
-  src: url("fonts/Helvetica.ttf");
+  font-family: helvetica;
+  src: url("fonts/helvetica.ttf");
 }
 
 .floating-title span:hover {
@@ -137,7 +137,7 @@ h1 {
    margin-top: 0px;
   margin-bottom: 18px;
   font-size: 18px;
-   font-family: Helvetica, Arial, sans-serif;
+   font-family: helvetica, Arial, sans-serif;
     font-weight: 400;
 }
 
@@ -299,7 +299,7 @@ h1 {
 
 .project-card h3 {
   margin: 28px 24px 14px 24px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: helvetica, Arial, sans-serif;
   color: #00cfe8;
       font-size: 18px;
   font-weight: 700;
@@ -312,7 +312,7 @@ h1 {
   margin: 0 24px 28px 24px;
   line-height: 1.6;
   color: #0a0a0a;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: helvetica, Arial, sans-serif;
     font-weight: 400;
       font-size: 14px;
        display: block;
@@ -396,7 +396,7 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: helvetica, Arial, sans-serif;
 }
 
 .badges span {
@@ -413,7 +413,7 @@ h1 {
   background: #00e5ff;
   color: #0a0a0a;
   font-size: 22px;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: helvetica, Arial, sans-serif;
 }
 
 .message-box a {
@@ -505,7 +505,7 @@ h1 {
   margin-bottom: 16px;
   font-size: 14px;
   line-height: 1.5;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: helvetica, Arial, sans-serif;
     font-weight: 400;
 }
 
@@ -515,7 +515,7 @@ h1 {
   letter-spacing: 2px;
   font-size: 12px;
   margin-bottom: 4px !important;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: helvetica, Arial, sans-serif;
     font-weight: 700;
 }
 
@@ -553,12 +553,12 @@ h1 {
 }
 
 .name {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: helvetica, Arial, sans-serif;
   font-weight: 700; /* gras */
 }
 
 .job {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: helvetica, Arial, sans-serif;
   font-weight: 400; /* régulier */
 }
 
@@ -594,7 +594,7 @@ h1 {
   border-radius: 999px;
     padding: 8px 14px;
   font-size: 13px;
-font-family: Helvetica, Arial, sans-serif;
+font-family: helvetica, Arial, sans-serif;
     font-weight: 700;
   cursor: pointer;
 }
@@ -751,7 +751,7 @@ font-family: Helvetica, Arial, sans-serif;
   opacity: 1;
   transition: opacity 0.25s ease;
   transform: translateY(-6px);
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: helvetica, Arial, sans-serif;
     font-weight: 400;
 }
 
@@ -761,7 +761,7 @@ font-family: Helvetica, Arial, sans-serif;
   left: 50%;
   top: 58%; /* avant 62% */
   transform: translate(-50%, -50%);
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: helvetica, Arial, sans-serif;
     font-weight: 400;
 }
 
@@ -945,7 +945,7 @@ img {
 
 @media screen and (max-width: 768px) {
   .identity-info h2 {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: helvetica, Arial, sans-serif;
     font-weight: 700;
     font-size: 22px;
     line-height: 1.15;
@@ -984,7 +984,7 @@ img {
 
   .subtitle {
     font-size: 15px;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: helvetica, Arial, sans-serif;
     font-weight: 400;
     max-width: 300px;
   }
@@ -992,7 +992,7 @@ img {
   .btn {
     padding: 12px 20px;
     font-size: 14px;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: helvetica, Arial, sans-serif;
     font-weight: 700;
   }
 
@@ -1100,7 +1100,7 @@ img {
 
   .project-card h3 {
     font-size: 21px;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: helvetica, Arial, sans-serif;
     font-weight: 700;
      display: none;
   }
